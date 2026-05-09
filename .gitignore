@@ -1,0 +1,13 @@
+# Frontend
+wanderlust-frontend/node_modules
+wanderlust-frontend/dist
+
+# Backend
+wanderlust-backend/**/target
+
+# IDE
+.idea
+.vscode
+
+# Logs
+*.log
